@@ -15,4 +15,4 @@ nickel = "^0.8"
 [dependencies.nickel_cookies]
 version = "^0.1"
 features = ["secure"]
-git = "https://github.com/nickel-org/cookies"
+git = "https://github.com/flosse/cookies"
